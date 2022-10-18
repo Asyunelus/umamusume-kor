@@ -1,0 +1,43 @@
+{
+	"dicts": [
+		"localized_data/static.json",
+		"localized_data/common.json",
+		"localized_data/chara.json",
+		"localized_data/race_comment.json",
+		"localized_data/race_message.json",
+		"localized_data/kor_main.json",
+		"localized_data/kor_race.json",
+		"localized_data/kor_story.json",
+		"localized_data/kor_umastory.json"
+	],
+	"addi-patch": [
+		{
+			"name": "육성 완료 시 팅김현상 제거",
+			"config-update": {
+				"maxFps": 60
+			}
+		},
+		{
+			"name": "개인의 선택",
+			"config-update": {
+				"customTitleName": "null",
+				"unlockSize": false
+			},
+			"localized_data": [
+				"link2"
+			]
+		},
+		{
+			"name": "가로 모드 패치",
+			"config-update": {
+				"forceLandscape": true
+			}
+		},
+		{
+			"name": "세로 모드 패치",
+			"config-update": {
+				"forceLandscape": false
+			}
+		}
+	]
+}
