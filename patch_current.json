@@ -1,12 +1,15 @@
 {
-	"version": "202210180312",
+	"version": "202210191306",
 	"patchNote": [
-		"1. 그랜드 라이브 시스템 UI 변경사항 번역 대응",
-		"2. 로비 > 게시판 텍스트 미번 2종 번역",
-		"3. 국화상 기념 미션 미번 번역",
-		"4. [일본 최고의 총대장] 스페셜위크 스킬 번역",
-		"5. 일부 시스템 추가 번역"
+		"1. 신규 우마무스메 / 서포트 카드 번역",
+		"2. 일부 미번 UI 번역",
+		"3. 신규 악곡 Ms. VICTORIA 번역",
+		"4. 메인스토리 최종장 전편 제 1화 번역. (2화 이후는 추후 작업예정)",
+		"5. 미소의 보물 -Beyond The Future!- 가사 번역",
+		"6. 에스턴 마짱 5 ~ 7화 번역 (양그믹님 제공)",
+		"7. 칭호 미번분 번역 (양그믹님 제공)",
+		"8. 한컷만화 설명 미번분 번역 (양그믹님 제공)"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210180312/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210180312/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210191306/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210191306/kor_main.json"
 }
