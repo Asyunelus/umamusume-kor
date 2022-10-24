@@ -1,13 +1,10 @@
 {
-	"version": "202210220327",
+	"version": "202210241549",
 	"patchNote": [
-		"1. 미번 서포트카드 3종 번역 (대사 제외)",
-		"2. 일부 스킬 번역 수정",
-		"3. 일부 스킬 미번분 추가 번역",
-		"4. 일부 시스템UI 번역",
-		"5. 야마닌 제퍼 스토리 번역 (양그믹님 제공)",
-		"6. 이명 번역 (양그믹님 제공, 일부 오역 수정해서 적용됨)"
+		"1. 시스템 일부 미번 UI 추가 번역",
+		"2. 텐노상 (가을) 한정 미션 텍스트 번역",
+		"3. 시킹 더 펄 스토리 번역 (양그믹님 제공)"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210220327/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210220327/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210241549/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210241549/kor_main.json"
 }

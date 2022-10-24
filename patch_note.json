@@ -5,10 +5,21 @@
 			"현재 작업중이며, 추후 패치 예정 내용입니다.",
 			"1. 라이트 헬로 이벤트 제목 어색한부분 수정",
 			"2. 서포트카드 미번분 추가 번역",
-			"3. 스킬 미번분 추가 번역 및 기존 번역 수정"
+			"3. 스킬 미번분 추가 번역 및 기존 번역 수정",
+			"4. 시스템 일부 미번 UI 추가 번역"
 		],
 		"link": "#",
 		"link2": "#"
+	},
+	{
+		"version": "202210241549",
+		"patchNote": [
+			"1. 시스템 일부 미번 UI 추가 번역",
+			"2. 텐노상 (가을) 한정 미션 텍스트 번역",
+			"3. 시킹 더 펄 스토리 번역 (양그믹님 제공)"
+		],
+		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210241549/localized_data.zip",
+		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210241549/kor_main.json"
 	},
 	{
 		"version": "202210220327",
