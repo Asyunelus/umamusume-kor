@@ -12,12 +12,12 @@
 		"link2": "#"
 	},
 	{
-		"version": "202210281300",
+		"version": "202210281232",
 		"patchNote": [
 			"1. 해당일 업데이트 패치 번역"
 		],
-		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210281300/localized_data.zip",
-		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210281300/kor_main.json"
+		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210281232/localized_data.zip",
+		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202210281232/kor_main.json"
 	},
 	{
 		"version": "202210241549",
