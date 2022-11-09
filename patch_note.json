@@ -12,6 +12,15 @@
 		"link2": "#"
 	},
 	{
+		"version": "202211091219",
+		"patchNote": [
+			"1. 해당일 업데이트 패치 번역",
+			"2. 일부 텍스트 추가 적용"
+		],
+		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202211091219/localized_data.zip",
+		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202211091219/kor_main.json"
+	},
+	{
 		"version": "202211060355",
 		"patchNote": [
 			"1. 일부 번역본 추가 적용 (양그믹님 제공)",
