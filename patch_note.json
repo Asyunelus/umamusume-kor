@@ -1,15 +1,12 @@
 [
 	{
-		"version": "202210xxxxxx",
+		"version": "202211211430",
 		"patchNote": [
-			"현재 작업중이며, 추후 패치 예정 내용입니다.",
-			"1. 라이트 헬로 이벤트 제목 어색한부분 수정",
-			"2. 서포트카드 미번분 추가 번역",
-			"3. 스킬 미번분 추가 번역 및 기존 번역 수정",
-			"4. 시스템 일부 미번 UI 추가 번역"
+			"1. 신규 이벤트 번역 적용",
+			"2. 신규 캐릭터 번역본 추가 적용 (양그믹님 제공)"
 		],
-		"link": "#",
-		"link2": "#"
+		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202211211430/localized_data.zip",
+		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202211211430/kor_main.json"
 	},
 	{
 		"version": "202211171239",
