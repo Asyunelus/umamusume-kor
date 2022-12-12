@@ -1,9 +1,9 @@
 {
-	"version": "202211292230",
+	"version": "202212121919",
 	"patchNote": [
 		"1. 신규 우마무스메 / 서포트 카드 번역",
 		"2. 신규 캐릭터 번역본 추가 적용 (양그믹님 제공)"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202211292230/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202211292230/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212121919/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212121919/kor_main.json"
 }
