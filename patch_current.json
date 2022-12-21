@@ -1,9 +1,9 @@
 {
-	"version": "202212191529",
+	"version": "202212220804",
 	"patchNote": [
-		"1. 일부 미번 미션 추가 번역",
-		"2. 신규 캐릭터 번역본 추가 적용 (양그믹님 제공)"
+		"1. 신규 이벤트 번역",
+		"2. 신규 캐릭터 번역본 적용"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212191529/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212191529/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212220804/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212220804/kor_main.json"
 }
