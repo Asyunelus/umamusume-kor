@@ -1,9 +1,10 @@
 {
-	"version": "202212220804",
+	"version": "202301030135",
 	"patchNote": [
-		"1. 신규 이벤트 번역",
-		"2. 신규 캐릭터 번역본 적용"
+		"1. 신규 서포트카드 번역본 적용",
+		"2. 신규 캐릭터 번역본 적용",
+		"3. 캐릭터 스토리 번역 대규모 수정 적용 (양그믹님 제공)"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212220804/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202212220804/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301030135/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301030135/kor_main.json"
 }
