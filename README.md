@@ -4,6 +4,7 @@
 
 
 ## Version Download Stat
+[![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301041644/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301030135/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202212220804/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202212191529/total.svg)]()
