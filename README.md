@@ -1,9 +1,10 @@
 # umamusume-kor
+> [Site Main Page](https://asyunelus.github.io/blog/umamusume/kor-patch)
 
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/total.svg)]()
 
-
 ## Version Download Stat
+[![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301101359/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301041644/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301030135/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202212220804/total.svg)]()

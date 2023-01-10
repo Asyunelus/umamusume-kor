@@ -1,5 +1,13 @@
 [
 	{
+		"version": "202301101359",
+		"patchNote": [
+			"1. 신규 캐릭터 번역 대응"
+		],
+		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301101359/localized_data.zip",
+		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301101359/kor_main.json"
+	},
+	{
 		"version": "202301041644",
 		"patchNote": [
 			"1. KIRARI MAGIC SHOW 가사 번역"
