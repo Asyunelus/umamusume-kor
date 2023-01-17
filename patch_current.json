@@ -1,8 +1,10 @@
 {
-	"version": "202301101359",
+	"version": "202301180715",
 	"patchNote": [
-		"1. 신규 캐릭터 번역 대응"
+		"1. test_id_static.json 미번, 추가부분 대응 (양그믹님 제공)",
+		"2. 홋코 타루마에 스토리  대응 (양그믹님 제공)",
+		"3. 서포트카드 7종 번역"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301101359/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301101359/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301180715/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301180715/kor_main.json"
 }
