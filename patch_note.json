@@ -1,5 +1,14 @@
 [
 	{
+		"version": "202301201627",
+		"patchNote": [
+			"1. test_id_static.json 문제 수정 및 레이스 관련 교정 패치 (양그믹님 제공)",
+			"2. 신규 우마무스메 변역"
+		],
+		"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301201627/localized_data.zip",
+		"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301201627/kor_main.json"
+	},
+	{
 		"version": "202301180715",
 		"patchNote": [
 			"1. test_id_static.json 미번, 추가부분 대응 (양그믹님 제공)",

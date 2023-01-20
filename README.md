@@ -11,6 +11,7 @@
 
 ## Version Download Stat
 > 각 버전 별 다운로드 횟수입니다.
+[![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301201627/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301180715/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301101359/total.svg)]()
 [![Download Total](https://img.shields.io/github/downloads/Asyunelus/umamusume-kor/202301041644/total.svg)]()
