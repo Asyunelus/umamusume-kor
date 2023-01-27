@@ -1,9 +1,9 @@
 {
-	"version": "202301231807",
+	"version": "202301271250",
 	"patchNote": [
-		"1. 아오하루배 도움말 2페이지 번역",
-		"2. 미션 미번분 번역"
+		"1. 아오하루배 경기 대응 경기 메시지 추가 (양그믹님 제공)",
+		"2. 해당일 업데이트 대응"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301231807/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301231807/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301271250/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301271250/kor_main.json"
 }
