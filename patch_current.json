@@ -1,9 +1,10 @@
 {
-	"version": "202301301702",
+	"version": "202301301735",
 	"patchNote": [
 		"1. static 1/27 업데이트분 수정 (양그믹님 제공)",
-		"2. 해당일 업데이트 대응 (신규 우마무스메 / 서포트카드 / 노래)"
+		"2. 해당일 업데이트 대응 (신규 우마무스메 / 서포트카드 / 노래)",
+		"3. 202301301702 버전에 누락됬던 칭호명 수정"
 	],
-	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301301702/localized_data.zip",
-	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301301702/kor_main.json"
+	"link": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301301735/localized_data.zip",
+	"link2": "https://github.com/Asyunelus/umamusume-kor/releases/download/202301301735/kor_main.json"
 }
